@@ -1,0 +1,34 @@
+.settings-wrap.section {
+	max-width: 800px;
+	padding: 0 0 20px 0;
+}
+
+.settings-wrap.section .of-color {
+	width: 80px;
+}
+
+.settings-wrap.section .upload {
+	width: 440px;
+}
+
+.screenshot {
+	padding: 5px 0;
+	position: relative;
+}
+
+.screenshot img {
+	outline: 1px solid #ccc;
+	border: 4px solid #fff;
+	max-width: 500px;
+	height: auto;
+}
+
+.screenshot .remove-image {
+	position: absolute;
+	top: 15px;
+	left: 10px;
+	padding: 5px;
+	color: #fff;
+	background: #f00;
+	cursor: pointer;
+}
